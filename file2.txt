@@ -1,0 +1,2 @@
+Git add file2
+Git add file2.txt
